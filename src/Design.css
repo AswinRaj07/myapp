@@ -1,0 +1,32 @@
+.maindiv{
+   width: 100%;
+   border: 1px;
+}
+.topdiv{
+    margin-top: 20px;
+    position: relative;
+    /* top: 1rem; */
+    left: 10rem;
+}
+.chartdiv{
+    margin-top: 70px;
+    width: 60%;
+    height: 20rem;
+    position: relative;
+    /* top: 3rem; */
+    left: 15rem;
+}
+.totaldiv{
+    margin-top: 40px;
+    position: relative;
+    left: 18rem;
+}
+.btnstyle{
+    position: relative;
+    left: 4rem;
+}
+
+.selectstyl{
+    position: relative;
+    left: 2.5rem;
+}
